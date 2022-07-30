@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SongKyuSeob
-- 👀 I’m interested in starting programming
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm an app developing beginner, currently learning about Flutter.
+
+I'll appreciate about any feedback. Thank you:)
 
 <!---
 SongKyuSeob/SongKyuSeob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
