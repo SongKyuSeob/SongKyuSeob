@@ -1,4 +1,4 @@
-I'm an app developing beginner, currently learning about Flutter.
+I'm an app developing beginner, currently learning about swift.
 
 I'll appreciate about any feedback. Thank you:)
 
