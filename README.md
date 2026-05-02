@@ -38,10 +38,6 @@
 
 <br>
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SongKyuSeob&hide=contribs,prs&show_icons=true&theme=graywhite)
-
 <br>
 
 ## Contact
