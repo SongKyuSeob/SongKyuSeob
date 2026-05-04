@@ -25,7 +25,7 @@
 
 병렬 독서를 하는 사용자를 위한 독서 타이머 기반 기록 앱
 
-`Swift` `UIKit` `Clean Architecture` `MVVM-C` `Combine` `Alamofire` `StoreKit`
+`Swift` `UIKit` `Clean Architecture` `MVVM-C` `Combine` `Alamofire`
 
 <br>
 
