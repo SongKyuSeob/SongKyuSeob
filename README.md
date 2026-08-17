@@ -4,8 +4,6 @@
 
 > 단순 구현을 넘어, 서비스의 가치를 선명하게 만들 수 있는 방향을 고민하고 실현합니다.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jvkw7q2y35v7ocj7x45kxckf54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
 <br>
 
 ## Skills
