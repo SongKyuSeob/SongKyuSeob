@@ -8,10 +8,11 @@
 
 ## Skills
 
-**iOS**: Swift · UIKit  
-**Architecture**: Clean Architecture · MVVM-C · Coordinator  
+**iOS**: Swift · UIKit · SwiftUI · Swift Concurrency  
+**Architecture**: Clean Architecture · MVVM-C · TCA  
 **Reactive**: Combine · RxSwift  
-**Networking**: Alamofire  
+**Frameworks**: Core Animation · WidgetKit · ActivityKit · StoreKit 2  
+**Libraries**: Alamofire · RevenueCat · Firebase  
 **Tools**: Xcode · Git/GitHub · Figma · Notion
 
 <br>
@@ -23,7 +24,16 @@
 
 병렬 독서를 하는 사용자를 위한 독서 타이머 기반 기록 앱
 
-`Swift` `UIKit` `Clean Architecture` `MVVM-C` `Combine` `Alamofire`
+`Swift` `UIKit` `Combine` `Swift Concurrency` `WidgetKit` `ActivityKit` `StoreKit 2` `RevenueCat` `MVVM-C`
+
+<br>
+
+### Kohere - Housing in Korea
+`2026.06 ~ 현재` · [App Store](https://apps.apple.com/kr/app/kohere-housing-in-korea/id6781619804)
+
+외국인을 위한 맞춤형 국내 주거 매물 추천·탐색 앱
+
+`Swift` `SwiftUI` `TCA` `Swift Concurrency` `NAVER Maps SDK` `Alamofire`
 
 <br>
 
