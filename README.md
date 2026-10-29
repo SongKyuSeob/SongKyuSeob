@@ -46,8 +46,6 @@
 
 <br>
 
-## Side Project
-
 ### Lantern - 할 일은 늘 보이게, 맥은 일이 끝날 때까지 깨어 있게
 `2026.10 ~ 현재` · [GitHub](https://github.com/SongKyuSeob/Lantern) · [Download](https://github.com/SongKyuSeob/Lantern/releases/latest)
 
