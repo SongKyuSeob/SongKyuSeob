@@ -48,10 +48,10 @@
 
 ## Side Project
 
-### Lantern - 에이전트가 일하는 동안 깨어 있는 맥
+### Lantern - 할 일은 늘 보이게, 맥은 일이 끝날 때까지 깨어 있게
 `2026.10 ~ 현재` · [GitHub](https://github.com/SongKyuSeob/Lantern) · [Download](https://github.com/SongKyuSeob/Lantern/releases/latest)
 
-Claude Code·Codex가 일하는 동안 맥을 깨워 두고, 할 일을 화면 구석에 늘 띄워 두는 macOS 유틸리티
+화면 구석에 할 일을 늘 띄워 두고, Claude Code·Codex가 일하는 동안(또는 정한 시간까지) 맥을 깨워 두는 macOS 유틸리티
 
 `Swift` `SwiftUI` `AppKit` `SwiftData` `Swift Testing`
 
