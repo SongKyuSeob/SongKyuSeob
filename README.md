@@ -1,6 +1,6 @@
 <div align="center">
 
-# 송규섭 · iOS Developer
+# 송규섭 · App Developer
 
 > 단순 구현을 넘어, 서비스의 가치를 선명하게 만들 수 있는 방향을 고민하고 실현합니다.
 
