@@ -13,6 +13,7 @@
 **Reactive**: Combine · RxSwift  
 **Frameworks**: Core Animation · WidgetKit · ActivityKit · StoreKit 2  
 **Libraries**: Alamofire · RevenueCat · Firebase  
+**Cross-platform**: Flutter (개발 중)  
 **Tools**: Xcode · Tuist · Git/GitHub · Figma · Notion
 
 <br>
@@ -20,11 +21,11 @@
 ## Projects
 
 ### Tododok - 조금씩, 꾸준히, 토도독
-`2025.11 ~ 현재` · [App Store](https://apple.co/4rWnNRz)
+`2025.11 ~ 현재` · [App Store](https://apple.co/4rWnNRz) · Android(Flutter) 개발 중
 
 병렬 독서를 하는 사용자를 위한 독서 타이머 기반 기록 앱
 
-`Swift` `UIKit` `Combine` `Swift Concurrency` `WidgetKit` `ActivityKit` `StoreKit 2` `RevenueCat` `MVVM-C`
+`Swift` `UIKit` `Combine` `Swift Concurrency` `WidgetKit` `ActivityKit` `StoreKit 2` `RevenueCat` `MVVM-C` · Android: `Flutter` `Dart`
 
 <br>
 
@@ -33,7 +34,7 @@
 
 외국인을 위한 맞춤형 국내 주거 매물 추천·탐색 앱
 
-`Swift` `SwiftUI` `TCA` `Swift Concurrency` `Tuist` `NAVER Maps SDK` `Alamofire`
+`Swift` `SwiftUI` `TCA` `Swift Concurrency` `Tuist` `String Catalog` `NAVER Maps SDK` `Alamofire`
 
 <br>
 
@@ -51,7 +52,7 @@
 
 화면 구석에 할 일을 늘 띄워 두고, Claude Code·Codex가 일하는 동안(또는 정한 시간까지) 맥을 깨워 두는 macOS 유틸리티
 
-`Swift` `SwiftUI` `AppKit` `SwiftData` `Swift Testing`
+`Swift` `SwiftUI` `AppKit` `SwiftData` `Sparkle` `Swift Testing`
 
 <br>
 
