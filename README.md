@@ -13,7 +13,7 @@
 **Reactive**: Combine · RxSwift  
 **Frameworks**: Core Animation · WidgetKit · ActivityKit · StoreKit 2  
 **Libraries**: Alamofire · RevenueCat · Firebase  
-**Tools**: Xcode · Git/GitHub · Figma · Notion
+**Tools**: Xcode · Tuist · Git/GitHub · Figma · Notion
 
 <br>
 
@@ -33,7 +33,7 @@
 
 외국인을 위한 맞춤형 국내 주거 매물 추천·탐색 앱
 
-`Swift` `SwiftUI` `TCA` `Swift Concurrency` `NAVER Maps SDK` `Alamofire`
+`Swift` `SwiftUI` `TCA` `Swift Concurrency` `Tuist` `NAVER Maps SDK` `Alamofire`
 
 <br>
 
