@@ -13,7 +13,7 @@
 **Reactive**: Combine · RxSwift  
 **Frameworks**: Core Animation · WidgetKit · ActivityKit · StoreKit 2  
 **Libraries**: Alamofire · RevenueCat · Firebase  
-**Cross-platform**: Flutter (개발 중)  
+**Cross-platform**: Flutter
 **Tools**: Xcode · Tuist · Git/GitHub · Figma · Notion
 
 <br>
